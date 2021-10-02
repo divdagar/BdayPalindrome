@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #121212;
+  background: white;
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+/* main */
+
+main {
+  text-align: center;
+  margin: 3rem;
+}
+
+h2 {
+  font-size: xx-large;
+  margin: 2rem;
+}
+
+.input-label {
+  display: block;
+  font-size: large;
+  font-weight: 600;
+}
+
+.input {
+  font-size: 14px;
+  padding: 0.6rem 1rem;
+  margin: 1rem;
+  border: 5px solid #7c3aed;
+  color: black;
+  border-radius: 0.5rem;
+}
+
+#check-btn {
+  border: 5px solid #7c3aed;
+  color: black;
+  padding: 0.7rem 1rem;
+  border-radius: 0.5rem;
+}
+
+#result {
+  font-size: 1.5rem;
+  margin: 2rem 0;
+}
